@@ -1,5 +1,3 @@
-# CodeAlpha_FAQChatbot
-
 🤖 AI FAQ Chatbot
 
 An interactive **Python Tkinter application** that acts as a chatbot for answering common questions about **Artificial Intelligence**.  
